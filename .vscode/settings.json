@@ -1,0 +1,5 @@
+{
+  "eslint.validate": ["vue", "html", "javascript"],
+  "eslint.codeActionsOnSave.mode": "all",
+  "vetur.validation.template": false
+}
